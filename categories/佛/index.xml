@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>佛 on Pure theme for Hugo</title>
+    <title>佛 on Om</title>
     <link>https://siteofen.github.io/categories/%E4%BD%9B/</link>
-    <description>Recent content in 佛 on Pure theme for Hugo</description>
+    <description>Recent content in 佛 on Om</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>CC BY 4.0 CN</copyright>
+    <copyright>copyright OM</copyright>
     <lastBuildDate>Tue, 22 Feb 2022 22:57:37 -0500</lastBuildDate>
     
         <atom:link href="https://siteofen.github.io/categories/%E4%BD%9B/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>六字真言</title>
+      <link>https://siteofen.github.io/2022/02/%E5%85%AD%E5%AD%97%E7%9C%9F%E8%A8%80/</link>
+      <pubDate>Wed, 23 Feb 2022 07:21:51 -0500</pubDate>
+      
+      <guid>https://siteofen.github.io/2022/02/%E5%85%AD%E5%AD%97%E7%9C%9F%E8%A8%80/</guid>
+      <description>六字大明咒 The Six-Character Great Bright Mantra 唵‧嘛‧呢‧叭‧彌‧吽 OM MANI PADME HUM 音節 淨化 象徵本尊之美德 唵 我慢 智慧 嘛 嫉妒 慈悲 呢 渴愛、我執 身、口、意、行及品質 唄 愚癡 平静 咪 贪婪</description>
+    </item>
     
     <item>
       <title>永嘉大师证道歌</title>
