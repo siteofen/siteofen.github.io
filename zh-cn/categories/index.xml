@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 中文</title>
+    <link>https://siteofen.github.io/zh-cn/categories/</link>
+    <description>Recent content in Categories on 中文</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Feb 2022 22:57:37 -0500</lastBuildDate><atom:link href="https://siteofen.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>佛</title>
+      <link>https://siteofen.github.io/zh-cn/categories/%E4%BD%9B/</link>
+      <pubDate>Tue, 22 Feb 2022 22:57:37 -0500</pubDate>
+      
+      <guid>https://siteofen.github.io/zh-cn/categories/%E4%BD%9B/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
