@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 中文</title>
+    <title>Tags on 杨医生新冠义诊</title>
     <link>https://siteofen.github.io/zh-cn/tags/</link>
-    <description>Recent content in Tags on 中文</description>
+    <description>Recent content in Tags on 杨医生新冠义诊</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Feb 2022 20:06:41 -0500</lastBuildDate><atom:link href="https://siteofen.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>咒</title>
-      <link>https://siteofen.github.io/zh-cn/tags/%E5%92%92/</link>
-      <pubDate>Wed, 23 Feb 2022 20:06:41 -0500</pubDate>
-      
-      <guid>https://siteofen.github.io/zh-cn/tags/%E5%92%92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>证道歌</title>
-      <link>https://siteofen.github.io/zh-cn/tags/%E8%AF%81%E9%81%93%E6%AD%8C/</link>
-      <pubDate>Wed, 23 Feb 2022 20:06:41 -0500</pubDate>
-      
-      <guid>https://siteofen.github.io/zh-cn/tags/%E8%AF%81%E9%81%93%E6%AD%8C/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="https://siteofen.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
