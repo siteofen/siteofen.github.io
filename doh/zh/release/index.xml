@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Releases on 杨医生新冠义诊</title>
+    <link>https://siteofen.github.io/doh/zh/release/</link>
+    <description>Recent content in Releases on 杨医生新冠义诊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>xxxxx@gmail.com (Dao of Healing)</managingEditor>
+    <webMaster>xxxxx@gmail.com (Dao of Healing)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 23 Feb 2022 21:03:47 -0500</lastBuildDate>
+    
+        <atom:link href="https://siteofen.github.io/doh/zh/release/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>关于杨医生</title>
+        <link>https://siteofen.github.io/doh/zh/release/aboutdryang/</link>
+        <pubDate>Wed, 23 Feb 2022 21:03:47 -0500</pubDate>
+        <author>xxxxx@gmail.com (Dao of Healing)</author>
+        <atom:modified>Wed, 23 Feb 2022 21:03:47 -0500</atom:modified>
+        <guid>https://siteofen.github.io/doh/zh/release/aboutdryang/</guid>
+        <description>救度的是谁 杨晓峰医生的心里话 虽然你被感染了，但接触你的人也被感染了，看到这篇文章的时候你应该幸运的得到了我们最好的治疗，可能是目前全球最好的</description>
+        
+        <dc:creator>Dao of Healing</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
