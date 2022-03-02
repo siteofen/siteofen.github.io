@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Dao of Healing</title>
-    <link>http://example.org/en/tags/index/</link>
+    <link>https://siteofen.github.io/en/tags/index/</link>
     <description>Recent content in index on Dao of Healing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>xxxxx@gmail.com (Dao of Healing)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://siteofen.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/en/posts/</link>
+        <link>https://siteofen.github.io/en/posts/</link>
         <pubDate>Wed, 23 Feb 2022 20:53:48 -0500</pubDate>
         <author>xxxxx@gmail.com (Dao of Healing)</author>
         
-        <guid>http://example.org/en/posts/</guid>
+        <guid>https://siteofen.github.io/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

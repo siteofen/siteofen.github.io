@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 杨医生新冠义诊</title>
-    <link>http://example.org/zh/series/</link>
+    <link>https://siteofen.github.io/zh/series/</link>
     <description>Recent content in Series on 杨医生新冠义诊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>xxxxx@gmail.com (Dao of Healing)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://siteofen.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
