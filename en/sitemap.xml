@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/xsl" href="https://siteofen.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://siteofen.github.io/en/</loc>
+    <lastmod>2022-02-22T16:20:35-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/en/post/</loc>
+    <lastmod>2022-02-22T16:20:35-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/en/post/sayhi/</loc>
+    <lastmod>2022-02-22T16:20:35-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/en/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/en/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
