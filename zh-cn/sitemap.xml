@@ -401,6 +401,13 @@
   </url>
   
   <url>
+    <loc>https://siteofen.github.io/zh-cn/categories/%E8%97%8F%E4%BC%A0/</loc>
+    <lastmod>2022-02-23T20:06:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://siteofen.github.io/zh-cn/tags/%E8%AF%81%E9%81%93%E6%AD%8C/</loc>
     <lastmod>2022-02-23T20:06:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -430,6 +437,27 @@
   
   <url>
     <loc>https://siteofen.github.io/zh-cn/post/%E9%87%91%E5%88%9A%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E8%9C%9C%E7%BB%8F/</loc>
+    <lastmod>2022-02-23T20:06:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/zh-cn/tags/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B5/</loc>
+    <lastmod>2022-02-23T20:06:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/zh-cn/tags/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B5%E7%99%BE%E5%AD%97%E6%98%8E/</loc>
+    <lastmod>2022-02-23T20:06:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://siteofen.github.io/zh-cn/post/%E9%87%91%E5%88%9A%E8%90%A8%E5%9F%B5%E7%99%BE%E5%AD%97%E6%98%8E/</loc>
     <lastmod>2022-02-23T20:06:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
