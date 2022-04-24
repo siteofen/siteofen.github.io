@@ -1,5 +1,8 @@
-tmp
+en/*/img
+zh/*/img/
+tmp/
 
-en/*/img/
-zh-cn/*/img/
-
+*.bak
+*.*~
+*.bat
+*.sh

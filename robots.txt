@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://siteofen.github.io/sitemap.xml
+Sitemap: https://www.daoofhealing.org/sitemap.xml
