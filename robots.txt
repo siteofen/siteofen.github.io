@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.daoofhealing.org/sitemap.xml
+Sitemap: https://arkofcompassion.com/sitemap.xml
